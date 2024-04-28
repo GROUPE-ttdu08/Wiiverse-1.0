@@ -1,0 +1,1592 @@
+Uri: http://miiverse08.e-monsite.com/medias/files/797-7972864-miiverse-miis-miiverse-update.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\files\797-7972864-miiverse-miis-miiverse-update.jpg
+Content Type: image/jpeg
+
+Uri: http://miiverse08.e-monsite.com/medias/files/have-fun-in-miiverse-jingle-wii-u-miiverse.mp3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\files\have-fun-in-miiverse-jingle-wii-u-miiverse.mp3
+Content Type: audio/mpeg
+
+Uri: http://miiverse08.e-monsite.com/medias/files/welcome-sound.mp3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\files\welcome-sound.mp3
+Content Type: audio/mpeg
+
+Uri: http://web.archive.org/web/20171007205229im_/https://d13ph7xrk1ee39.cloudfront.net/img/n3ds.png?vQ99K1ReXZjO7Jo44_bNMg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171007205229im_\https\d13ph7xrk1ee39.cloudfront.net\img\n3ds.png
+Content Type: image/png
+
+Uri: http://web.archive.org/web/20171008060615im_/https://d13ph7xrk1ee39.cloudfront.net/img/wiiu.png?QGR7_Xj-RRrTprcfcKcSWg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171008060615im_\https\d13ph7xrk1ee39.cloudfront.net\img\wiiu.png
+Content Type: image/png
+
+Uri: http://web.archive.org/web/20171017103549im_/https://d3esbfg30x759i.cloudfront.net/ss/MlWA77w-us8SLmZqaz
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171017103549im_\https\d3esbfg30x759i.cloudfront.net\ss\MlWA77w-us8SLmZqaz
+Content Type: image/jpeg
+
+Uri: http://wiiverse.e-monsite.com/medias/images/sans-titre.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\sans-titre.png
+Content Type: image/png
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.eot?
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\includes\fonts\Iconochive-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.eot?-ccsheb
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\includes\fonts\Iconochive-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.svg?-ccsheb
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\includes\fonts\Iconochive-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.ttf?-ccsheb
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\includes\fonts\Iconochive-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\includes\fonts\Iconochive-Regular.woff
+Content Type: application/octet-stream
+
+Uri: https://archive.org/services/img/archiveteam
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\services\img\archiveteam
+Content Type: image/jpeg
+
+Uri: https://archive.org/services/img/archiveteam_miiverse
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\services\img\archiveteam_miiverse
+Content Type: image/jpeg
+
+Uri: https://archive.org/services/img/liveweb
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\services\img\liveweb
+Content Type: image/jpeg
+
+Uri: https://archive.org/services/img/webwidecrawl
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\services\img\webwidecrawl
+Content Type: image/jpeg
+
+Uri: https://cdn-mii.accounts.nintendo.com/2.0.0/mii_images/5206762a832e428f/f14c4ddfae9059f14a2eadd749129962b68213ec.png?type=face&width=140&bgColor=DFDFDFFF
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\2.0.0\mii_images\5206762a832e428f\f14c4ddfae9059f14a2eadd749129962b68213ec.png
+Content Type: image/png
+
+Uri: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ231ulPgVi0TjopoVXATLm8--31C949FxdLA&usqp=CAU
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\images-1
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Afacad:300,400,700&display=swap
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&display=swap
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/afacad/v1/6NUK8FKMIQOGaw6wjYT7ZHG_zsBBfhXtamc-9g.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\afacad\v1\6NUK8FKMIQOGaw6wjYT7ZHG_zsBBfhXtamc-9g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/afacad/v1/6NUK8FKMIQOGaw6wjYT7ZHG_zsBBfvLqamc-9g.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\afacad\v1\6NUK8FKMIQOGaw6wjYT7ZHG_zsBBfvLqamc-9g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://gaming-cdn.com/images/products/442/616x353/minecraft-java-bedrock-edition-pc-jeu-cover.jpg?v=1702481356
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\images\products\442\616x353\minecraft-java-bedrock-edition-pc-jeu-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://s.yimg.com/ny/api/res/1.2/vR3hpIP0Z.K9pqPjTfg9pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY3MDtoPTM3Nw--/https:/media.zenfs.com/fr_FR/News/Gameblog/69455_gb_news.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\ny\api\res\1.2\vR3hpIP0Z.K9pqPjTfg9pg--\YXBwaWQ9aGlnaGxhbmRlcjt3PTY3MDtoPTM3Nw--\https\media.zenfs.com\fr_FR\News\Gameblog\69455_gb_news.jpg
+Content Type: image/jpeg
+
+Uri: https://static.addtoany.com/menu/page.js
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\menu\page.js
+Content Type: application/javascript
+
+Uri: https://static.criteo.net/js/ld/publishertag.js
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\js\ld\publishertag.js
+Content Type: text/javascript
+
+Uri: https://static.wikia.nocookie.net/logopedia/images/f/f9/Minecraft_Bedrock_icon.svg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\logopedia\images\f\f9\Minecraft_Bedrock_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/1hDKuM5UKK2GhB5T/miiverse-setting-wii-u.mp3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\1hDKuM5UKK2GhB5T\miiverse-setting-wii-u.mp3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/6_mz0yr-ABwdf4DM/offdevice.css?jixVFsrbzagSmiU0paPSow
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\6_mz0yr-ABwdf4DM\offdevice.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/9ImuXwZcIcbUF53z/iconochive.css?v=qtvMKcIJ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\9ImuXwZcIcbUF53z\iconochive.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/aLUPOoYizWGYmQIS/offdevice.css
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\aLUPOoYizWGYmQIS\offdevice.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/dQJIuYmAZtZz5tgZ/complete-en.js
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\dQJIuYmAZtZz5tgZ\complete-en.js
+Content Type: text/javascript
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/ePmEqx9t_8AqdWla/iconochive.css?v=qtvMKcIJ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\ePmEqx9t_8AqdWla\iconochive.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/ex6x5JT77J8JQvOR/iconochive.css?v=qtvMKcIJ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\ex6x5JT77J8JQvOR\iconochive.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/IKVuQvs3NTIQ0M80/banner-styles.css?v=S1zqJCYt
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\IKVuQvs3NTIQ0M80\banner-styles.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/IxuhONIBHgaEn4En/banner-styles.css?v=S1zqJCYt
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\IxuhONIBHgaEn4En\banner-styles.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/J3gNheR7PntdkyHB/offdevice.css?jixVFsrbzagSmiU0paPSow
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\J3gNheR7PntdkyHB\offdevice.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/K-CEXzqm6X7aqrVU/1215.MP3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\K-CEXzqm6X7aqrVU\1215.MP3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/kN7vgMbQTbdJxwL7/banner-styles.css?v=S1zqJCYt
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\kN7vgMbQTbdJxwL7\banner-styles.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/lkEYE3gQ4pT7xG8k/platform.js
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\lkEYE3gQ4pT7xG8k\platform.js
+Content Type: text/javascript
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/lzuU0TG8zCBJBuwX/Nintendo Network ID Settings Music (All Versions).mp3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\lzuU0TG8zCBJBuwX\Nintendo Network ID Settings Music (All Versions).mp3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/pqNCgHOioyJM1do8/iconochive.css?v=qtvMKcIJ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\pqNCgHOioyJM1do8\iconochive.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/SWepVmidu0LrO-fW/1210.MP3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\SWepVmidu0LrO-fW\1210.MP3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/TeMqpAJwOEmJ9k9b/langues.css
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\TeMqpAJwOEmJ9k9b\langues.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/u6H8AqyP2u2IaZUc/1229.MP3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\u6H8AqyP2u2IaZUc\1229.MP3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/VEIGu5U69CB-LzrQ/untitle-2022-03-05-15-09-01.mp3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\VEIGu5U69CB-LzrQ\untitle-2022-03-05-15-09-01.mp3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/VzfMWfE6pGA4shPv/3DS Miiverse OST - Settings Manual [Extended].mp3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\VzfMWfE6pGA4shPv\3DS Miiverse OST - Settings Manual [Extended].mp3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/w1yvZXlnF6TRRNhz/banner-styles.css?v=S1zqJCYt
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\w1yvZXlnF6TRRNhz\banner-styles.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/wqq_Oo4vGYgMAB5U/1214.MP3
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\wqq_Oo4vGYgMAB5U\1214.MP3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/yHpR1y9NmdJkb80E/scriptytb.js
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\yHpR1y9NmdJkb80E\scriptytb.js
+Content Type: text/javascript
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/ZRGZcUUk9xUt99gb/miiverse.css
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\share\ZRGZcUUk9xUt99gb\miiverse.css
+Content Type: text/css
+
+Uri: https://ttdu08.odoo.com/web/image/website/1/logo/Site officiel de ttdu08?unique=5438e87
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\image\website\1\logo\Site officiel de ttdu08.webp
+Content Type: image/webp
+
+Uri: https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\css\banner-styles.css
+Content Type: text/css
+
+Uri: https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\css\iconochive.css
+Content Type: text/css
+
+Uri: https://web-static.archive.org/_static/css/record.css
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\css\record.css
+Content Type: text/css
+
+Uri: https://web-static.archive.org/_static/images/loading.gif
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\images\loading.gif
+Content Type: image/gif
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\images\toolbar\wayback-toolbar-logo-100.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\images\toolbar\wayback-toolbar-logo-150.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\images\toolbar\wayback-toolbar-logo-200.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_on.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\images\toolbar\wm_tb_nxt_on.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_on.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\images\toolbar\wm_tb_prv_on.png
+Content Type: image/png
+
+Uri: https://web-static.archive.org/_static/images/web-screenshot.svg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\_static\images\web-screenshot.svg
+Content Type: image/svg+xml
+
+Uri: https://web.archive.org/web/20150904213439im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-114x114.png?7BG8CXQUNg9puEyX86P55g
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20150904213439im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20150904223449im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-144x144.png?U-l5y2aDgriioqMnoD4Rzg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20150904223449im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20150904235142im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-72x72.png?gzQJApFdFdAqkVtWHcUP_A
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20150904235142im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20150905001707im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-57x57.png?-Z4Fk7Q3nvDXr5zkiOrxuA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20150905001707im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160705070840im_/https://d13ph7xrk1ee39.cloudfront.net/img/balloon-part-empathy.png?GXwAkHrU_NISgJHXZBTBpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160705070840im_\https\d13ph7xrk1ee39.cloudfront.net\img\balloon-part-empathy.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160705070843im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.woff?RkxShjFofefIEsBVAiKv6Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160705070843im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://web.archive.org/web/20160705070843im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-right.png?TpPVEO8Ph-EtyWDHwVrA4Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160705070843im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-right.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160705070845im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.ttf?W8NeiSCock3J-MCV6h9wVA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160705070845im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.ttf
+Content Type: text/plain
+
+Uri: https://web.archive.org/web/20160705180459cs_/https://d13ph7xrk1ee39.cloudfront.net/css/offdevice.css?uv6UeRmkC2ICaNONOZ_PvQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160705180459cs_\https\d13ph7xrk1ee39.cloudfront.net\css\offdevice.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20160705180459js_/https://d13ph7xrk1ee39.cloudfront.net/js/complete-en.js?aiDA7nbtdb0KKTTDYi619A
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160705180459js_\https\d13ph7xrk1ee39.cloudfront.net\js\complete-en.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20160705180501im_/https://d13ph7xrk1ee39.cloudfront.net/img/favicon.ico?mM9KNw_M04SIP2y9VGgdNA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160705180501im_\https\d13ph7xrk1ee39.cloudfront.net\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20160707083552im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-left.png?TkfXA9HNLevq-SF2c67xLQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083552im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-left.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083555im_/https://d13ph7xrk1ee39.cloudfront.net/img/gray-button-bg.gif?iPp0oywZ37ls0JMfqV-7vA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083555im_\https\d13ph7xrk1ee39.cloudfront.net\img\gray-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20160707083556im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user-mini.png?x0Bort0kL7ZYsffoDnNvnA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083556im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user-mini.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083557im_/https://d13ph7xrk1ee39.cloudfront.net/img/tutorial-window-balloon.png?k-yAhY8qeKCYWhNmG6QRfA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083557im_\https\d13ph7xrk1ee39.cloudfront.net\img\tutorial-window-balloon.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083558im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray.png?RZQXV8yln6MKCFOC2XlGgA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083558im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083559im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray-dot.png?MLmu-sCNKjWKqbJLQ44-fw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083559im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray-dot.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083559im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-beginner.png?HpMNeLjZoQcmVPxIGweFtQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083559im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-beginner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083601im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user.png?gjD3DyEP_k6vqtZ2liPHiQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083601im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083602im_/https://d13ph7xrk1ee39.cloudfront.net/img/button-bg.gif?uiyI5SQIILyWljThiov-gw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083602im_\https\d13ph7xrk1ee39.cloudfront.net\img\button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20160707083602im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle.png?E7rjp1vuufzInKwSJ_K12w
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083602im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083604im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-select.png?-DjUmX6699ZZO-NTmZKmWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083604im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-select.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083605im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/keisan-bg.png?c_n86mmlaJjYrGCg7I0OWw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083605im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\keisan-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083606im_/https://d13ph7xrk1ee39.cloudfront.net/img/identified-user-banner.png?OW3iYEofaVCFM9o_MV2NVg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083606im_\https\d13ph7xrk1ee39.cloudfront.net\img\identified-user-banner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083606im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle-sp.png?BgNpNgBaV1ZxrDwlJLsI7Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083606im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle-sp.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083607im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.eot?g4khEYcfqJ5alM6eFiV-LA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083607im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://web.archive.org/web/20160707083608im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-expert.png?1LV2EjGEwqQSeS63XfbmCQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083608im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-expert.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083609im_/https://d13ph7xrk1ee39.cloudfront.net/img/green-button-bg.gif?8Jseyb_1qlMm01end0DsmA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083609im_\https\d13ph7xrk1ee39.cloudfront.net\img\green-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20160707083610im_/https://d13ph7xrk1ee39.cloudfront.net/img/black-button-bg.gif?Ty01XDIUuk5WD0uuzjC--A
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083610im_\https\d13ph7xrk1ee39.cloudfront.net\img\black-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20160707083611im_/https://d13ph7xrk1ee39.cloudfront.net/img/mask-bg-white.png?yNIfM3usnqpvv4k4INBhhw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083611im_\https\d13ph7xrk1ee39.cloudfront.net\img\mask-bg-white.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083611im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg.png?UErx8IRiN7-sP1_Sc4juqg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083611im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160707083612im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-intermediate.png?5QnWC_Dxa-Zzw5Jkjx6wWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160707083612im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-intermediate.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160708230600im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-57x57.png?Ag2tdrIcl30F8RewVb7MpA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160708230600im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160708230601im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-114x114.png?np5stZwxPtIFygwO41QXAA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160708230601im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160708230603im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-72x72.png?s4ECPF96pvErA7s03oG3gQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160708230603im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160708230605im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-144x144.png?Cp5sZwpS_1aly-SFq8AeIA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160708230605im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160821150215js_/https://d13ph7xrk1ee39.cloudfront.net/js/complete-fr.js?0ZcMI-421F25da2zAyzceg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160821150215js_\https\d13ph7xrk1ee39.cloudfront.net\js\complete-fr.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20160821150218im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.ttf?W8NeiSCock3J-MCV6h9wVA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160821150218im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.ttf
+Content Type: text/plain
+
+Uri: https://web.archive.org/web/20160821150228im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-expert.png?1LV2EjGEwqQSeS63XfbmCQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160821150228im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-expert.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160822145035cs_/https://d13ph7xrk1ee39.cloudfront.net/css/offdevice.css?uv6UeRmkC2ICaNONOZ_PvQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160822145035cs_\https\d13ph7xrk1ee39.cloudfront.net\css\offdevice.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20160822145037im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.woff?RkxShjFofefIEsBVAiKv6Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160822145037im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://web.archive.org/web/20160822145039im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-right.png?TpPVEO8Ph-EtyWDHwVrA4Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160822145039im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-right.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160822145040im_/https://d13ph7xrk1ee39.cloudfront.net/img/favicon.ico?mM9KNw_M04SIP2y9VGgdNA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160822145040im_\https\d13ph7xrk1ee39.cloudfront.net\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20160823202857im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-57x57.png?Ag2tdrIcl30F8RewVb7MpA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823202857im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823202858im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-72x72.png?s4ECPF96pvErA7s03oG3gQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823202858im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823202900im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-114x114.png?np5stZwxPtIFygwO41QXAA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823202900im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823202900im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-144x144.png?Cp5sZwpS_1aly-SFq8AeIA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823202900im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/balloon-part-empathy.png?GXwAkHrU_NISgJHXZBTBpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\balloon-part-empathy.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/button-bg.gif?uiyI5SQIILyWljThiov-gw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.eot?g4khEYcfqJ5alM6eFiV-LA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/green-button-bg.gif?8Jseyb_1qlMm01end0DsmA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\green-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/identified-user-banner.png?OW3iYEofaVCFM9o_MV2NVg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\identified-user-banner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/mask-bg-white.png?yNIfM3usnqpvv4k4INBhhw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\mask-bg-white.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user-mini.png?x0Bort0kL7ZYsffoDnNvnA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user-mini.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221602im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/keisan-bg.png?c_n86mmlaJjYrGCg7I0OWw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221602im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\keisan-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray.png?RZQXV8yln6MKCFOC2XlGgA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-select.png?-DjUmX6699ZZO-NTmZKmWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-select.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/black-button-bg.gif?Ty01XDIUuk5WD0uuzjC--A
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\black-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user.png?gjD3DyEP_k6vqtZ2liPHiQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-beginner.png?HpMNeLjZoQcmVPxIGweFtQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-beginner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-intermediate.png?5QnWC_Dxa-Zzw5Jkjx6wWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-intermediate.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle-sp.png?BgNpNgBaV1ZxrDwlJLsI7Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle-sp.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle.png?E7rjp1vuufzInKwSJ_K12w
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221603im_/https://d13ph7xrk1ee39.cloudfront.net/img/tutorial-window-balloon.png?k-yAhY8qeKCYWhNmG6QRfA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221603im_\https\d13ph7xrk1ee39.cloudfront.net\img\tutorial-window-balloon.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221604im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray-dot.png?MLmu-sCNKjWKqbJLQ44-fw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221604im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray-dot.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221604im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-left.png?TkfXA9HNLevq-SF2c67xLQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221604im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-left.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221604im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg.png?UErx8IRiN7-sP1_Sc4juqg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221604im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20160823221605im_/https://d13ph7xrk1ee39.cloudfront.net/img/gray-button-bg.gif?iPp0oywZ37ls0JMfqV-7vA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20160823221605im_\https\d13ph7xrk1ee39.cloudfront.net\img\gray-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170223095925im_/https://d13ph7xrk1ee39.cloudfront.net/img/favicon.ico?mM9KNw_M04SIP2y9VGgdNA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170223095925im_\https\d13ph7xrk1ee39.cloudfront.net\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20170223184312im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-57x57.png?Ag2tdrIcl30F8RewVb7MpA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170223184312im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170223184313im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-114x114.png?np5stZwxPtIFygwO41QXAA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170223184313im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170223184314im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-72x72.png?s4ECPF96pvErA7s03oG3gQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170223184314im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170223184316im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-144x144.png?Cp5sZwpS_1aly-SFq8AeIA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170223184316im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170225204022im_/https://d13ph7xrk1ee39.cloudfront.net/img/identified-user-banner.png?OW3iYEofaVCFM9o_MV2NVg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170225204022im_\https\d13ph7xrk1ee39.cloudfront.net\img\identified-user-banner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170306134836im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-intermediate.png?5QnWC_Dxa-Zzw5Jkjx6wWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170306134836im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-intermediate.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170307143945im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-expert.png?1LV2EjGEwqQSeS63XfbmCQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170307143945im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-expert.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170309033210im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.woff?RkxShjFofefIEsBVAiKv6Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170309033210im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://web.archive.org/web/20170309033210im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-left.png?TkfXA9HNLevq-SF2c67xLQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170309033210im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-left.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170310080241im_/https://d13ph7xrk1ee39.cloudfront.net/img/favicon.ico?mM9KNw_M04SIP2y9VGgdNA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170310080241im_\https\d13ph7xrk1ee39.cloudfront.net\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20170310080243im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-57x57.png?Ag2tdrIcl30F8RewVb7MpA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170310080243im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170310080246im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-114x114.png?np5stZwxPtIFygwO41QXAA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170310080246im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170310080247im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-72x72.png?s4ECPF96pvErA7s03oG3gQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170310080247im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170310080250im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-144x144.png?Cp5sZwpS_1aly-SFq8AeIA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170310080250im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170310080251cs_/https://d13ph7xrk1ee39.cloudfront.net/css/offdevice.css?uv6UeRmkC2ICaNONOZ_PvQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170310080251cs_\https\d13ph7xrk1ee39.cloudfront.net\css\offdevice.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20170310080254js_/https://d13ph7xrk1ee39.cloudfront.net/js/complete-en.js?aiDA7nbtdb0KKTTDYi619A
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170310080254js_\https\d13ph7xrk1ee39.cloudfront.net\js\complete-en.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20170311235737im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-right.png?TpPVEO8Ph-EtyWDHwVrA4Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170311235737im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-right.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170311235848im_/https://d13ph7xrk1ee39.cloudfront.net/img/balloon-part-empathy.png?GXwAkHrU_NISgJHXZBTBpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170311235848im_\https\d13ph7xrk1ee39.cloudfront.net\img\balloon-part-empathy.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170312143126im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user.png?gjD3DyEP_k6vqtZ2liPHiQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170312143126im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231931im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray-dot.png?MLmu-sCNKjWKqbJLQ44-fw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231931im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray-dot.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231931im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.eot?g4khEYcfqJ5alM6eFiV-LA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231931im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://web.archive.org/web/20170323231931im_/https://d13ph7xrk1ee39.cloudfront.net/img/gray-button-bg.gif?iPp0oywZ37ls0JMfqV-7vA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231931im_\https\d13ph7xrk1ee39.cloudfront.net\img\gray-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170323231932im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user-mini.png?x0Bort0kL7ZYsffoDnNvnA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231932im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user-mini.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231933im_/https://d13ph7xrk1ee39.cloudfront.net/img/green-button-bg.gif?8Jseyb_1qlMm01end0DsmA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231933im_\https\d13ph7xrk1ee39.cloudfront.net\img\green-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170323231933im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle-sp.png?BgNpNgBaV1ZxrDwlJLsI7Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231933im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle-sp.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231933im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/keisan-bg.png?c_n86mmlaJjYrGCg7I0OWw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231933im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\keisan-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231934im_/https://d13ph7xrk1ee39.cloudfront.net/img/button-bg.gif?uiyI5SQIILyWljThiov-gw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231934im_\https\d13ph7xrk1ee39.cloudfront.net\img\button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170323231934im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg.png?UErx8IRiN7-sP1_Sc4juqg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231934im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231935im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray.png?RZQXV8yln6MKCFOC2XlGgA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231935im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231935im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle.png?E7rjp1vuufzInKwSJ_K12w
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231935im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231935im_/https://d13ph7xrk1ee39.cloudfront.net/img/tutorial-window-balloon.png?k-yAhY8qeKCYWhNmG6QRfA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231935im_\https\d13ph7xrk1ee39.cloudfront.net\img\tutorial-window-balloon.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231936im_/https://d13ph7xrk1ee39.cloudfront.net/img/mask-bg-white.png?yNIfM3usnqpvv4k4INBhhw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231936im_\https\d13ph7xrk1ee39.cloudfront.net\img\mask-bg-white.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231937im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-select.png?-DjUmX6699ZZO-NTmZKmWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231937im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-select.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170323231937im_/https://d13ph7xrk1ee39.cloudfront.net/img/black-button-bg.gif?Ty01XDIUuk5WD0uuzjC--A
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231937im_\https\d13ph7xrk1ee39.cloudfront.net\img\black-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170323231937im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.ttf?W8NeiSCock3J-MCV6h9wVA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231937im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.ttf
+Content Type: text/plain
+
+Uri: https://web.archive.org/web/20170323231937im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-beginner.png?HpMNeLjZoQcmVPxIGweFtQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170323231937im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-beginner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928015538im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-expert.png?1LV2EjGEwqQSeS63XfbmCQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928015538im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-expert.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928021027im_/https://d13ph7xrk1ee39.cloudfront.net/img/identified-user-banner.png?OW3iYEofaVCFM9o_MV2NVg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021027im_\https\d13ph7xrk1ee39.cloudfront.net\img\identified-user-banner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928021031im_/https://d13ph7xrk1ee39.cloudfront.net/img/favicon.ico?mM9KNw_M04SIP2y9VGgdNA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021031im_\https\d13ph7xrk1ee39.cloudfront.net\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20170928021104cs_/https://d13ph7xrk1ee39.cloudfront.net/css/offdevice.css?jixVFsrbzagSmiU0paPSow
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021104cs_\https\d13ph7xrk1ee39.cloudfront.net\css\offdevice.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20170928021104js_/https://d13ph7xrk1ee39.cloudfront.net/js/complete-en.js?fIOZ2c9u1kzE6kkD5AkljQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021104js_\https\d13ph7xrk1ee39.cloudfront.net\js\complete-en.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20170928021106im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.woff?RkxShjFofefIEsBVAiKv6Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021106im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://web.archive.org/web/20170928021106im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user.png?gjD3DyEP_k6vqtZ2liPHiQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021106im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928021110im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-right.png?TpPVEO8Ph-EtyWDHwVrA4Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021110im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-right.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928021411im_/https://d13ph7xrk1ee39.cloudfront.net/img/balloon-part-empathy.png?GXwAkHrU_NISgJHXZBTBpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928021411im_\https\d13ph7xrk1ee39.cloudfront.net\img\balloon-part-empathy.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155032im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-144x144.png?Cp5sZwpS_1aly-SFq8AeIA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155032im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155034im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-114x114.png?np5stZwxPtIFygwO41QXAA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155034im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155036im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-72x72.png?s4ECPF96pvErA7s03oG3gQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155036im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155046im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-57x57.png?Ag2tdrIcl30F8RewVb7MpA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155046im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155048im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray.png?RZQXV8yln6MKCFOC2XlGgA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155048im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155048im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-beginner.png?HpMNeLjZoQcmVPxIGweFtQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155048im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-beginner.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155048im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg.png?UErx8IRiN7-sP1_Sc4juqg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155048im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155049im_/https://d13ph7xrk1ee39.cloudfront.net/img/gray-button-bg.gif?iPp0oywZ37ls0JMfqV-7vA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155049im_\https\d13ph7xrk1ee39.cloudfront.net\img\gray-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170928155049im_/https://d13ph7xrk1ee39.cloudfront.net/img/icon-arrow-left.png?TkfXA9HNLevq-SF2c67xLQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155049im_\https\d13ph7xrk1ee39.cloudfront.net\img\icon-arrow-left.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155049im_/https://d13ph7xrk1ee39.cloudfront.net/img/skill-intermediate.png?5QnWC_Dxa-Zzw5Jkjx6wWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155049im_\https\d13ph7xrk1ee39.cloudfront.net\img\skill-intermediate.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155049im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle-sp.png?BgNpNgBaV1ZxrDwlJLsI7Q
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155049im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle-sp.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155049im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/header-bg-sarcle.png?E7rjp1vuufzInKwSJ_K12w
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155049im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\header-bg-sarcle.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155050im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.eot?g4khEYcfqJ5alM6eFiV-LA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155050im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://web.archive.org/web/20170928155050im_/https://d13ph7xrk1ee39.cloudfront.net/img/font/MiiverseSymbols-Regular.ttf?W8NeiSCock3J-MCV6h9wVA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155050im_\https\d13ph7xrk1ee39.cloudfront.net\img\font\MiiverseSymbols-Regular.ttf
+Content Type: text/plain
+
+Uri: https://web.archive.org/web/20170928155050im_/https://d13ph7xrk1ee39.cloudfront.net/img/green-button-bg.gif?8Jseyb_1qlMm01end0DsmA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155050im_\https\d13ph7xrk1ee39.cloudfront.net\img\green-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170928155050im_/https://d13ph7xrk1ee39.cloudfront.net/img/special/keisan-bg.png?c_n86mmlaJjYrGCg7I0OWw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155050im_\https\d13ph7xrk1ee39.cloudfront.net\img\special\keisan-bg.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155051im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-gray-dot.png?MLmu-sCNKjWKqbJLQ44-fw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155051im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-gray-dot.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155051im_/https://d13ph7xrk1ee39.cloudfront.net/img/bg-select.png?-DjUmX6699ZZO-NTmZKmWQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155051im_\https\d13ph7xrk1ee39.cloudfront.net\img\bg-select.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155051im_/https://d13ph7xrk1ee39.cloudfront.net/img/black-button-bg.gif?Ty01XDIUuk5WD0uuzjC--A
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155051im_\https\d13ph7xrk1ee39.cloudfront.net\img\black-button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170928155051im_/https://d13ph7xrk1ee39.cloudfront.net/img/button-bg.gif?uiyI5SQIILyWljThiov-gw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155051im_\https\d13ph7xrk1ee39.cloudfront.net\img\button-bg.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20170928155052im_/https://d13ph7xrk1ee39.cloudfront.net/img/mask-bg-white.png?yNIfM3usnqpvv4k4INBhhw
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155052im_\https\d13ph7xrk1ee39.cloudfront.net\img\mask-bg-white.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155052im_/https://d13ph7xrk1ee39.cloudfront.net/img/official-user-mini.png?x0Bort0kL7ZYsffoDnNvnA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155052im_\https\d13ph7xrk1ee39.cloudfront.net\img\official-user-mini.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20170928155052im_/https://d13ph7xrk1ee39.cloudfront.net/img/tutorial-window-balloon.png?k-yAhY8qeKCYWhNmG6QRfA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20170928155052im_\https\d13ph7xrk1ee39.cloudfront.net\img\tutorial-window-balloon.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171007215548im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-114x114.png?np5stZwxPtIFygwO41QXAA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171007215548im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171007215548im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-144x144.png?Cp5sZwpS_1aly-SFq8AeIA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171007215548im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171007215548im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-57x57.png?Ag2tdrIcl30F8RewVb7MpA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171007215548im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171007215548im_/https://d13ph7xrk1ee39.cloudfront.net/img/apple-touch-icon-72x72.png?s4ECPF96pvErA7s03oG3gQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171007215548im_\https\d13ph7xrk1ee39.cloudfront.net\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171007215548im_/https://d13ph7xrk1ee39.cloudfront.net/img/favicon.ico?mM9KNw_M04SIP2y9VGgdNA
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171007215548im_\https\d13ph7xrk1ee39.cloudfront.net\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20171007215548js_/https://d13ph7xrk1ee39.cloudfront.net/js/complete-en.js?fIOZ2c9u1kzE6kkD5AkljQ
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20171007215548js_\https\d13ph7xrk1ee39.cloudfront.net\js\complete-en.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20220623152812im_/https://miiverse08.e-monsite.com/medias/images/capture-d-ecran-2022-06-06-160206.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20220623152812im_\https\miiverse08.e-monsite.com\medias\images\capture-d-ecran-2022-06-06-160206.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20220623152812im_/https://miiverse08.e-monsite.com/medias/images/montrer-plus-bouton-acceuil.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20220623152812im_\https\miiverse08.e-monsite.com\medias\images\montrer-plus-bouton-acceuil.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20220623152812im_/https://miiverse08.e-monsite.com/medias/images/nac.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20220623152812im_\https\miiverse08.e-monsite.com\medias\images\nac.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20220623152813im_/https://miiverse08.e-monsite.com/medias/images/ktd.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20220623152813im_\https\miiverse08.e-monsite.com\medias\images\ktd.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20220623152813im_/https://miiverse08.e-monsite.com/medias/images/prosa.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\web\20220623152813im_\https\miiverse08.e-monsite.com\medias\images\prosa.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\index.htm
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\index.htm
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/kirby-triple-deluxe.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\kirby-triple-deluxe.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/mario-sonic-aux-jeux-olympiques-de-rio-20161.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\mario-sonic-aux-jeux-olympiques-de-rio-20161.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/miitopia.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\miitopia.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/nintendo-anime-channel.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\nintendo-anime-channel.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/pokemon-ro-sa.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\pokemon-ro-sa.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/pokemon-soleil-lune.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\pokemon-soleil-lune.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-3ds/poochy-yoshi-s-woolly-world.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-3ds\poochy-yoshi-s-woolly-world.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-switch/minecraft.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-switch\minecraft.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-switch/nintendo-switch-sports.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-switch\nintendo-switch-sports.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/nintendo-switch/super-mario-bros-wonder.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\nintendo-switch\super-mario-bros-wonder.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/wii-u/
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\wii-u\index.htm
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/wii-u/mario-party-10.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\wii-u\mario-party-10.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/wii-u/mario-sonic-aux-jeux-olympiques-de-rio-2016.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\wii-u\mario-sonic-aux-jeux-olympiques-de-rio-2016.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/wii-u/new-super-mario-bros-u.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\wii-u\new-super-mario-bros-u.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/wii-u/sonic-lost-world.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\wii-u\sonic-lost-world.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/discussions-generales/wii-u/super-mario-3d-land.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\discussions-generales\wii-u\super-mario-3d-land.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/forum/do/rss.xml
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\forum\do\rss.xml
+Content Type: application/xml
+
+Uri: https://wiiverse.e-monsite.com/medias/images/2x1-nswitch-supermariobroswonder.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\2x1-nswitch-supermariobroswonder.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/48711-gb-news.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\48711-gb-news.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/48711-gb-news.jpg?fx=c_120_120
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\48711-gb-news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/86751-news-pokemon-rosa2-article-m-1.jpeg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\86751-news-pokemon-rosa2-article-m-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/86751-news-pokemon-rosa2-article-m-1.jpeg?fx=c_120_120
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\86751-news-pokemon-rosa2-article-m-1-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/aaqaaaaaqqat2xsv7s.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\aaqaaaaaqqat2xsv7s.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/aaqaaaawsaahr6537m.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\aaqaaaawsaahr6537m.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/aauaabaqhqa0tbqq7g.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\aauaabaqhqa0tbqq7g.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/capture-d-ecran-2023-12-06-145246.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\capture-d-ecran-2023-12-06-145246.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/capture-d-ecran-2023-12-08-232316.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\capture-d-ecran-2023-12-08-232316.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/capture-d-ecran-2023-12-08-23243323456.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\capture-d-ecran-2023-12-08-23243323456.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/capture-d-ecran-2023-12-13-220927.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\capture-d-ecran-2023-12-13-220927.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/chrome1.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\chrome1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/chrome2.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\chrome2.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/csw-demo.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\csw-demo.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/dernieres-discussions.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\dernieres-discussions.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/edge1.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\edge1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/edge2.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\edge2.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/h2x1-nswitch-miitopia-image1600w.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\h2x1-nswitch-miitopia-image1600w.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/h2x1-nswitch-miitopia-image1600w.jpg?fx=c_120_120
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\h2x1-nswitch-miitopia-image1600w-1.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/header-image.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\header-image.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/icon-artwork.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\icon-artwork.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/icon-diary.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\icon-diary.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/icon-newalbum.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\icon-newalbum.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/icon-newdiary.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\icon-newdiary.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/icon-topic.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\icon-topic.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/illust2.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\illust2.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/image-blanche.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\image-blanche.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/image-removebg-preview-8-.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\image-removebg-preview-8-.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/info-user.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\info-user.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/logo-1.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\logo-1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/mp10wiiu.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\mp10wiiu.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/nintendo-switch-sports.gif
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\nintendo-switch-sports.gif
+Content Type: image/gif
+
+Uri: https://wiiverse.e-monsite.com/medias/images/official-user-happy.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\official-user-happy.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/platform-tag-3ds.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\platform-tag-3ds.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/platform-tag-wiiu.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\platform-tag-wiiu.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/screenshot-2023-12-22-at-19-48-51-wiiverse-album-d-image-de-ttdu08.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\screenshot-2023-12-22-at-19-48-51-wiiverse-album-d-image-de-ttdu08.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/signin-base.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\signin-base.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/slwwiiu.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\slwwiiu.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/sm3dl-demo-wiiu.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\sm3dl-demo-wiiu.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/update-wiiverse.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\update-wiiverse.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/welcome-image.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\welcome-image.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/welcome5-1.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\welcome5-1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/welcome5-2.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\welcome5-2.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/welcome5-3.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\welcome5-3.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/welcome5-4.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\welcome5-4.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/welcome5-6.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\welcome5-6.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/welcome5-7.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\welcome5-7.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/wiiverse-1.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\wiiverse-1-1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/wiiverse-1.png?fx=c_50_50
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\wiiverse-1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/wiiverse-by-ttdu08.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\wiiverse-by-ttdu08.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/wiiverse-redisigned.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\wiiverse-redisigned.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/images/wvw69jykxcmfqjspp-.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\wvw69jykxcmfqjspp-.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/wvw69kcnhdqmnhpuu4.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\wvw69kcnhdqmnhpuu4.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/images/zlcfzq0awceu0zcb5j.jpg
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\images\zlcfzq0awceu0zcb5j.jpg
+Content Type: image/jpeg
+
+Uri: https://wiiverse.e-monsite.com/medias/members/avatars/official-user.png?fx=c_50_50
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\members\avatars\official-user.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/site/logos/logo.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\site\logos\logo.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/icon-captcha/css/icon-captcha.min.css
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\icon-captcha\css\icon-captcha.min.css
+Content Type: text/css
+
+Uri: https://wiiverse.e-monsite.com/medias/static/icon-captcha/js/icon-captcha.min.js
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\icon-captcha\js\icon-captcha.min.js
+Content Type: application/javascript
+
+Uri: https://wiiverse.e-monsite.com/medias/static/im/tryme/ems-tryme-illustration.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\im\tryme\ems-tryme-illustration.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/jQuery.countdown/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\jQuery.countdown\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://wiiverse.e-monsite.com/medias/static/js/rgpd-cookies/jquery.rgpd-cookies.js?v=1402
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\js\rgpd-cookies\jquery.rgpd-cookies.js
+Content Type: application/javascript
+
+Uri: https://wiiverse.e-monsite.com/medias/static/js/rgpd-cookies/jquery.rgpd-cookies.js?v=81
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\js\rgpd-cookies\jquery.rgpd-cookies-1.js
+Content Type: application/javascript
+
+Uri: https://wiiverse.e-monsite.com/medias/static/manager/agendaculturel.fr/im/footerems-ac.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\manager\agendaculturel.fr\im\footerems-ac.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/manager/e-monsite.com/im/footerems-ems.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\manager\e-monsite.com\im\footerems-ems.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/manager/madate.fr/im/madate-logo.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\manager\madate.fr\im\madate-logo.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/manager/wuro.fr/im/footerems-wuro.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\manager\wuro.fr\im\footerems-wuro.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/js/bootstrap.min.js?v=31012023
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/js/jquery-3.6.3.min.js?v=26012023
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\js\jquery-3.6.3.min.js
+Content Type: application/javascript
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/js/popper.min.js?v=31012023
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Outlined.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Outlined.ttf
+Content Type: font/ttf
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Outlined.woff
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Outlined.woff
+Content Type: font/woff
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Outlined.woff2
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Outlined.woff2
+Content Type: font/woff2
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Round.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Round.ttf
+Content Type: font/ttf
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Round.woff
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Round.woff
+Content Type: font/woff
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Round.woff2
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Round.woff2
+Content Type: font/woff2
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Sharp.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Sharp.ttf
+Content Type: font/ttf
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Sharp.woff
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Sharp.woff
+Content Type: font/woff
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Sharp.woff2
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Sharp.woff2
+Content Type: font/woff2
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-TwoTone.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-TwoTone.ttf
+Content Type: font/ttf
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-TwoTone.woff
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-TwoTone.woff
+Content Type: font/woff
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-TwoTone.woff2
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-TwoTone.woff2
+Content Type: font/woff2
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons.ttf
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons.ttf
+Content Type: font/ttf
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons.woff
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons.woff
+Content Type: font/woff
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons.woff2
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons.woff2
+Content Type: font/woff2
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.eot?21477644
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.svg?21477644
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.ttf?21477644
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.woff2?21477644
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.woff?21477644
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.woff
+Content Type: font/woff
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/1.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/10.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\10.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/11.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\11.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/12.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\12.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/13.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\13.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/14.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\14.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/15.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\15.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/16.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\16.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/17.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\17.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/18.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\18.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/19.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\19.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/2.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\2.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/20.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\20.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/21.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\21.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/22.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\22.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/23.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\23.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/24.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\24.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/25.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\25.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/26.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\26.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/27.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\27.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/28.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\28.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/29.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\29.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/3.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\3.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/30.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\30.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/31.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\31.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/32.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\32.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/33.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\33.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/34.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\34.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/35.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\35.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/36.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\36.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/37.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\37.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/38.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\38.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/39.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\39.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/4.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\4.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/5.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\5.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/6.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\6.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/7.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\7.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/8.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\8.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/medias/static/themes/smileys/9.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\medias\static\themes\smileys\9.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/members/connect/
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\members\connect\index.htm
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/members/passwordlost/
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\members\passwordlost\index.htm
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/403.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\403.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/bannedusers/banned-list.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\bannedusers\banned-list.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/bug-sound.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\bug-sound.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/communautes/announcement.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\communautes\announcement.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/events/acceuil.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\events\acceuil.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/events/wiiverse-ttdu08.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\events\wiiverse-ttdu08.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/guide.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\guide.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/guide/faq.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\guide\faq.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/guide/terms.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\guide\terms.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/login.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\login.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/posts/aymhaaadaab2v0en2l3glq.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\posts\aymhaaadaab2v0en2l3glq.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/profils/ttdu08-diary.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\profils\ttdu08-diary.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/profils/ttdu08-profil.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\profils\ttdu08-profil.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/special/redisign.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\special\redisign.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/submit-violation.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\submit-violation.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/updates.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\updates.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/welcome.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\welcome.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/pages/wiiv.html
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\pages\wiiv.html
+Content Type: text/html
+
+Uri: https://wiiverse.e-monsite.com/storage/image/annonces-wiiverse-image.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\storage\image\annonces-wiiverse-image.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/storage/image/code-de-conduite-wiiverse-image.png?fx=r_800_600
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\storage\image\code-de-conduite-wiiverse-image.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/storage/image/faq-images.png?fx=r_800_600
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\storage\image\faq-images.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/storage/image/utilisation-de-miiverse-image-1.png
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\storage\image\utilisation-de-miiverse-image-1.png
+Content Type: image/png
+
+Uri: https://wiiverse.e-monsite.com/themes/combined.css?v=6_1642769533_31
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\themes\combined.css
+Content Type: text/css
+
+Uri: https://wiiverse.e-monsite.com/themes/combined.js?v=6_1642769533_31&lang=fr
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\themes\combined.js
+Content Type: text/javascript
+
+Uri: https://wiiverse.e-monsite.com/themes/designlines/page/events/wiiverse-ttdu08.css?v=1708702110
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\themes\designlines\page\events\wiiverse-ttdu08.css
+Content Type: text/css
+
+Uri: https://wiiverse.e-monsite.com/themes/designlines/page/index.css?v=1713816980
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\themes\designlines\page\index.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-4VN4372P6E
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.gravatar.com/avatar/7393ec926403799ea635e6c3ac8dd9cc?s=50&d=mm
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\avatar\7393ec926403799ea635e6c3ac8dd9cc.png
+Content Type: image/jpeg
+
+Uri: https://www.gravatar.com/avatar/8ef7d1e3ccc30010659ab08365f36ef5?s=50&d=mm
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\avatar\8ef7d1e3ccc30010659ab08365f36ef5.png
+Content Type: image/jpeg
+
+Uri: https://www.gravatar.com/avatar/a56a394035634900a46a7300db9bf687?s=50&d=mm
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\avatar\a56a394035634900a46a7300db9bf687.png
+Content Type: image/png
+
+Uri: https://www.gravatar.com/avatar/b6b321db0817b86300498eb39a020d3b?s=50&d=mm
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\avatar\b6b321db0817b86300498eb39a020d3b.png
+Content Type: image/jpeg
+
+Uri: https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=50&d=mm
+File Name: C:\Downloaded Web Sites\wiiverse.e-monsite.com\avatar\d41d8cd98f00b204e9800998ecf8427e.png
+Content Type: image/jpeg
+
